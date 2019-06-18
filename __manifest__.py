@@ -5,9 +5,11 @@
     'author': 'Odooist',
     'maintainer': 'Odooist',
     'support': 'odooist@gmail.com',
+    'license': 'LGPL-3',
     'category': 'Hidden',
     'summary': 'Example of custom remote agent',
     'description': "",
+    'website': 'http://github.com/litnimax/remote_agent_example',
     'external_dependencies': {
         'python': ['tinyrpc'],
     },
@@ -21,4 +23,5 @@
     'installable': True,
     'application': True,
     'auto_install': False,
+    'images': ['static/description/screenshot1.png'],
 }
