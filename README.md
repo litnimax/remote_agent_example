@@ -6,7 +6,7 @@ between Odoo and remote system. Odoo does not connect to remote system and even 
 In this example project we created an IoT app on Raspberry Pi that will monitor factory sensors (room temperature and noise level).
 
 
-## Code example
+## Code example (for exact code project files!)
 ## Remote side (Raspberry Pi script)
 From *remote_agent* module copy *agent* folder to your system and rename it to *remote_agent*.
 
