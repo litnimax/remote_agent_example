@@ -1,3 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_remote_agent_example_room,access_remote_agent_example_room,model_remote_agent_example_room,base.group_user,1,1,1,1
-agent_remote_agent_example_room,agent_remote_agent_example_room,model_remote_agent_example_room,remote_agent.group_agent_agent,1,1,0,0
