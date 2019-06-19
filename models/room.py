@@ -1,7 +1,7 @@
 from datetime import datetime
 import logging
-from odoo import models, fields, api, _
-from odoo.addons.remote_agent.models.agent import AgentOffline
+from openerp import models, fields, api, _
+from openerp.addons.remote_agent.models.agent import AgentOffline
 
 logger = logging.getLogger(__name__)
 
