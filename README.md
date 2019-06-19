@@ -7,7 +7,7 @@ In this example project we created an IoT app on Raspberry Pi that will monitor 
 
 [![Remote Agent Example Demo](https://img.youtube.com/vi/nt8bLYfNlK4/0.jpg)](https://www.youtube.com/watch?v=nt8bLYfNlK4)
 
-## Code example (for exact code project files!)
+## Code example
 ## Remote side (Raspberry Pi script)
 From *remote_agent* module copy *agent* folder to your system and rename it to *remote_agent*.
 
