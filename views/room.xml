@@ -17,8 +17,7 @@
         <field name='type'>tree</field>
         <field name='arch' type='xml'>
             <tree editable="bottom">
-                <button type="object" name="refresh" icon="fa-refresh" aria-label="refresh"
-                    title="Refresh"/>
+                <button type="object" name="refresh" icon="fa-refresh"/>
                 <field name="name"/>
                 <field name="agent_uid"/>
                 <field name="temperature"/>
